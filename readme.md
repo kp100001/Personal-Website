@@ -1,6 +1,6 @@
 # Kaushik Patra - Personal Website
 
-This is my personal website built using HTML and CSS.
+This is my personal website built using HTML and CSS for the ICS Extra Creddit Assignment.
 
 ## Project Description
 
@@ -15,16 +15,3 @@ This website showcases my profile, CV, projects, and contact information. It is 
 * `contact.html`: Contact information.
 * `public/css/styles.css`: CSS stylesheet.
 * `public/assets/images/profile.jpg`: Profile picture.
-
-## How to Run
-
-Open the HTML files directly in a web browser.
-
-## Features
-
-* Clean and minimalist design.
-* Navigation between pages.
-* Display of personal information, CV details, and project summaries.
-* Contact information.
-
-## Directory Structure
